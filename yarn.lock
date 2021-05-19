@@ -3236,7 +3236,7 @@ data-urls@^1.1.0:
     whatwg-mimetype "^2.2.0"
     whatwg-url "^7.0.0"
 
-dayjs@^1.8.15:
+dayjs@^1.10.4, dayjs@^1.8.15:
   version "1.10.4"
   resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.10.4.tgz#8e544a9b8683f61783f570980a8a80eaf54ab1e2"
   integrity sha512-RI/Hh4kqRc1UKLOAf/T5zdMMX5DQIlDxwUe3wSyMMnEbGunnpENCdbUgM+dW7kXidZqCttBrmw7BhN4TMddkCw==
@@ -6768,6 +6768,11 @@ react-native-gesture-handler@~1.10.2:
     hoist-non-react-statics "^3.3.0"
     invariant "^2.2.4"
     prop-types "^15.7.2"
+
+react-native-health@^1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/react-native-health/-/react-native-health-1.7.2.tgz#3684429630aa602f2dd985f04208afe3b4650bb3"
+  integrity sha512-xL3SOnoEZ69vwspBn3REy5/Ts6YFedKLHVoKtfCMj4bpyP6HaKKTgJsj1cotb/wD986kEaZTN/c7fA5k6zEgEQ==
 
 react-native-reanimated@~2.1.0:
   version "2.1.0"
